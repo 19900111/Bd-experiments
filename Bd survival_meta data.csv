@@ -1,0 +1,18 @@
+Data,Explanation 
+Experiment 1,repetition 1
+Experiment 2,repetition 2
+Experiment 3,repetition 3
+Mixed,combination of Cu+Zn
+Duration,the period that Bd zoospores were exposed to metals (hour)
+Date,the date when the experiments were conducted in the lab
+Tube,exposure units with exclusive codes to use the same tubes in each time 
+L1,number of live cells in the first grid area counted in counting chamber
+L2,number of live cells in the second grid area counted in counting chamber
+L3,number of live cells in the third grid area counted in counting chamber
+L4,number of live cells in the fourth grid area counted in counting chamber
+L5,number of live cells in the central square of counting chamber with five grid areas
+D1,number of dead cells in the first grid area counted in counting chamber
+D2,number of dead cells in the second grid area counted in counting chamber
+D3,number of dead cells in the third grid area counted in counting chamber
+D4,number of dead cells in the fourth grid area counted in counting chamber
+D5,number of dead cells in the central square of counting chamber with five grid areas

@@ -1,0 +1,14 @@
+Data,Explanation 
+Experiment 1,"one generation (F1) only exposed to metals, and returned to metal-free env. in F2 and F3"
+Experiment 2,cross generations exposed to metals in F1 and F2
+Experiment 3,"continuous exposure in the same metal levels in F1, F2, and F3"
+F1,first generation 
+F2,second generation 
+F3,third generation 
+colony,counted colonies on the culture
+population size,measured absorbance rate of flooded cultures using spectrophotometer (OD 492 nm)
+total zoospores,counted both dead and live zoospores 
+total sporangia,counted sporangia the same as zoospores 
+survived zoospore density,counted survived zoospores 
+Mixed,combination of Cu and Zn expressed as toxic units
+TU,Toxic Unit
